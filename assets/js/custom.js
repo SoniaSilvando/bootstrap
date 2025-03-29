@@ -1,5 +1,5 @@
 const frases = [
-    "Welcome to Gorgeous Garden",
+    " Gorgeous Garden",
     "We bring life to your outdoor spaces",
     "Your dream garden starts here"
   ];
